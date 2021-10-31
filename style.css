@@ -1,0 +1,26 @@
+body{
+
+  margin:0px;
+  /*邊界*/
+  background-color: #f2f2f2;
+
+}
+*{
+  font-family: "微軟正黑體";
+}
+.class01{  
+  display:flex;
+float:top;
+    background-color: black;
+}
+  .class01 img{
+height: 5%;
+width: 5%;
+  }
+  .class01 button {
+  
+    
+    border: 0;
+    color:gray;
+    background: 0;
+  }
